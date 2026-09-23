@@ -21,7 +21,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Sunday, August 2, 2026 at 10:57:05 AM UTC -->
+<!-- AF-TOC : Monday, September 14, 2026 at 09:51:16 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -50,6 +50,7 @@
   - [Office Suites](#office-suites)
   - [E-book](#e-book)
   - [PDF Tools](#pdf-tools)
+- [Finance](#finance)
 - [Note Taking](#note-taking)
 - [Text Editors](#text-editors)
 - [Download Managers](#download-managers)
@@ -266,7 +267,7 @@
 - [GitHub Desktop](https://desktop.github.com) - Graphical Git client for cloning repositories, reviewing changes, and syncing with GitHub. 🪟 🍎 [🟢](https://github.com/desktop/desktop)
 - [WezTerm](https://wezterm.org) - GPU-accelerated terminal emulator and multiplexer with tabs, panes, SSH, and Lua configuration. 🪟 🍎 🐧 [🟢](https://github.com/wezterm/wezterm)
 - [Tura](https://turaai.net/) - Build agent that uses 80% less token and delivers better results. 🪟 🍎 🐧 [🟢](https://github.com/Tura-AI/tura)
-- [DevProjex](https://github.com/Avazbek22/DevProjex) - Build structured, token-counted project context with visual file selection, Smart Ignore, preview, and multiple output formats.    🪟 🍎 🐧 [🟢](https://github.com/Avazbek22/DevProjex)
+- [DevProjex](https://github.com/Avazbek22/DevProjex) - Builds safe, token-efficient project context with GUI, TUI, CLI, visual file selection, live preview, secret redaction, Git scopes, and syntax-aware compression.    🪟 🍎 🐧 [🟢](https://github.com/Avazbek22/DevProjex)
 - [Nexus Shell](https://nexusshell.app/?utm_source=github&utm_medium=directory&utm_campaign=awesome-free-apps) - Native macOS SSH workspace with multi-tab terminals, dual-pane file transfer, server monitoring, and Docker controls. 🍎
 - [Atomic Agent](https://atomicagent.io) - Local-first CLI and TUI coding assistant that runs open-weight models entirely on your machine. Includes 56 built-in tools for browser, filesystem, git, memory, and vision, MCP support, and a five-layer local memory system. No account or API key required. 🪟 🍎 🐧 [🟢](https://github.com/AtomicBot-ai/atomic-agent)
 - [DSH Studio](https://github.com/Moresyl/dsh-studio) - Installs, supervises, and manages DeepSeek Harness from a cross-platform desktop interface. 🪟 🍎 🐧 [🟢](https://github.com/Moresyl/dsh-studio)
@@ -295,6 +296,7 @@
 - [DB Browser for SQLite](https://sqlitebrowser.org) - Visual tool for creating, browsing, and editing SQLite database files. 🪟 🍎 🐧 [🟢](https://github.com/sqlitebrowser/sqlitebrowser)
 - [DearSQL](https://dearsql.dev) - Lightweight native database client built with Dear ImGui, supporting SQL and NoSQL databases. 🪟 🍎 🐧 [🟢](https://github.com/dunkbing/dearsql)
 - [DBTool](https://codemake.co/software) - Desktop client for PostgreSQL, MySQL, MariaDB, SQLite, Oracle, and SQL Server with server-side pagination, a visual query builder, and ER diagrams. 🪟 🍎 🐧 [🟢](https://github.com/achi777/db-tool)
+- [LibreDB Studio](https://libredb.org) - Database client for PostgreSQL, MySQL, Oracle, SQL Server, MongoDB, Redis and ten other SQL and NoSQL engines, with single sign-on and a query audit trail. 🐧 [🟢](https://github.com/libredb/libredb-studio)
 
 ### Network Analysis
 
@@ -306,6 +308,7 @@
 - [Proxie](https://proxie.app) - HTTP debugging proxy for tracking requests. 🍎
 - [Proxyman](https://proxyman.io) - Modern HTTP proxy with an intuitive UI. 🍎
 - [Sniffnet](https://sniffnet.net) - Tool for monitoring and analyzing network traffic. 🪟 🍎 🐧 [🟢](https://github.com/GyulyVGC/sniffnet)
+- [DevPeek](https://devpeek.ypgao.com) - HTTP(S) debugging proxy with mock, automatic parameter decryption, and request replay. 🪟 🍎
 
 ### Game Engines
 
@@ -350,6 +353,7 @@
 ## Documents
 
 - [CDisplayEx](https://www.cdisplayex.com) - Lightweight comic book reader (.cbr, .cbz, .pdf, manga). 🪟
+- [InvoiceFlowAI](https://www.orz.md/invoice-downloader/) - Collects PDF, OFD, and XML invoices from QQ or 163 email, uses OCR to classify them, and exports Excel summaries for review. 🪟 🍎 [🟢](https://github.com/EthanYoQ/Invoice-Downloader)
 
 ### Office Suites
 
@@ -402,6 +406,7 @@
 ## Finance
 
 - [Recurred](https://gozman.space/apps/recurred) - Subscription and recurring payment tracker with local storage and iCloud sync. No account required. 🍎
+- [Posnic](https://www.posnic.com/) - Offline-first POS and billing software for retail shops and restaurants. 🪟 🍎 🐧 [🟢](https://github.com/Posnic/POS)
 
 ## Note Taking
 
@@ -424,6 +429,7 @@
 - [Snoq](https://snoq.io) - Secure, offline-first note-taking app with AES-256 encryption. 🪟
 - [Knopo](https://github.com/alkalim/Knopo) - Local-first outliner for plain Markdown notes with backlinks, page/block references, and graph-friendly files. 🍎 [🟢](https://github.com/alkalim/Knopo)
 - [Bangle.io](https://bangle.io) - Local-first WYSIWYG note-taking app that keeps notes as portable Markdown files. 🪟 🍎 🐧 [🟢](https://github.com/bangle-io/bangle-io)
+- [Weiyu](https://github.com/Sutera-Diffusus/WeChat-daily) - Windows desktop app that turns local WeChat messages into searchable daily briefings, with automated analysis, speech-to-text, and installer or portable builds. 🪟 [🟢](https://github.com/Sutera-Diffusus/WeChat-daily)
 - [Loofah](https://loofah.io) - Local-first meeting notetaker with on-device transcription and Markdown vault storage. 🍎 [🟢](https://github.com/bart6114/loofah)
 
 ## Text Editors
@@ -458,6 +464,7 @@
 - [VSCodium](https://vscodium.com) - Community-built VS Code binaries without Microsoft branding, telemetry, or licensing changes. 🪟 🍎 🐧 [🟢](https://github.com/VSCodium/vscodium)
 - [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Native Markdown editor for macOS with a TextEdit-like workflow and local-file editing. 🍎 🟢
 - [Cate](https://cate.cero-ai.com) - Code editor on an infinite zoomable canvas where editors, terminals, browsers, and AI agent panels float in a spatial workspace, with docking, detachable windows, and per-project layout persistence. 🪟 🍎 🐧 [🟢](https://github.com/0-AI-UG/cate)
+- [AI Novel Writer](https://www.orz.md/ai-novel-writer/) - Organizes characters, worldbuilding, outlines, chapters, review, and revision for long-form fiction, with Ollama support. 🪟 🍎 [🟢](https://github.com/EthanYoQ/AI-Novel-Writer)
 
 ## Download Managers
 
@@ -557,6 +564,7 @@
 - [Affinity](https://www.affinity.studio/) - Professional creative suite for photo editing, graphic design, and desktop publishing. 🪟 🍎
 - [Open Photo AI](https://github.com/vegidio/open-photo-ai) - An open source alternative to the popular photo AI editor. 🪟 🍎 🐧 🟢
 - [ItsPaint](https://itspaintmac.com/) - MS Paint for macOS: blank canvas at any size, paste one image onto another, crop, and mark up screenshots. 🍎 🟢
+- [BlockMosaic](https://mcimagetool.com) - Convert images into buildable Minecraft pixel art with block counts and schematic export. 🪟 🍎 🐧
 
 ## 3D Modeling and Animation
 
@@ -587,6 +595,7 @@
 - [Passbolt](https://passbolt.com) - Team-oriented password manager for sharing and storing passwords securely. 🪟 🍎 🐧 🟢
 - [RoboForm](https://roboform.com) - Password manager and form filler with multi-platform synchronization. 🪟 🍎 🐧
 - [ProtonPass](https://proton.me/pass) - Free password manager with end-to-end encryption based in Switzerland. 🪟 🍎 🐧 [🟢](https://github.com/protonpass)
+- [Authier](https://www.authier.pm/) - Browser-based password manager with encrypted sync, TOTP, autofill, and trusted-device approval. 🪟 🍎 🐧 [🟢](https://github.com/authier-pm/authier)
 
 ### Ad & Tracker Blocking
 
@@ -746,7 +755,7 @@
 
 ### Clipboard Management
 
-- [Beetroot](https://max.nardit.com/beetroot) - Clipboard manager with AI text transforms and OCR extraction. 🪟
+- [Beetroot](https://max.nardit.com/beetroot) - Clipboard manager with AI text transforms and OCR extraction. 🪟 [🟢](https://github.com/mnardit/beetroot-releases)
 - [ClipAngel](https://sourceforge.net/projects/clip-angel) - Clipboard manager supporting rich text and images. 🪟
 - [Clipboard Fusion](https://clipboardfusion.com) - Clipboard manager with data transformation features. 🪟 🍎
 - [Clipy](https://clipy-app.com) - Simple clipboard manager. 🍎 🟢
@@ -759,6 +768,7 @@
 - [Qopy](https://github.com/0pandadev/qopy) - Minimalist clipboard manager with unique features. 🪟 🍎 🐧 🟢
 - [SaneClip](https://saneclip.com) - Clipboard manager that keeps all history local with search and formatting tools. 🍎 [🟢](https://github.com/sane-apps/SaneClip)
 - [Pesty](https://www.moamenbasel.com/pesty/) - Native clipboard manager with a color-coded history strip, pinboards, instant search, and keyboard-driven pasting. 🍎 [🟢](https://github.com/momenbasel/pesty)
+- [Whisk](https://nathan-poncet.github.io/whisk) - Clipboard manager with a Paste-style panel, pins, search operators, paste stack, and rich previews. 🍎 [🟢](https://github.com/nathan-poncet/whisk)
 
 ### Metadata
 

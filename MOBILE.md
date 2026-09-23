@@ -19,7 +19,7 @@
 
 ## Contents
 
-<!-- AF-TOC : Sunday, August 2, 2026 at 10:57:05 AM UTC -->
+<!-- AF-TOC : Monday, September 14, 2026 at 09:51:16 AM UTC -->
 
 - [Audio](#audio)
   - [Audio Players](#audio-players)
@@ -49,6 +49,7 @@
   - [E-book](#e-book)
   - [PDF Tools](#pdf-tools)
 - [Note Taking](#note-taking)
+- [Education](#education)
 - [Text Editors](#text-editors)
 - [Finance](#finance)
 - [Download Managers](#download-managers)
@@ -66,6 +67,7 @@
   - [Video Converters and Compressors](#video-converters-and-compressors)
 - [VPN and Proxy Tools](#vpn-and-proxy-tools)
 - [Health and Wellness](#health-and-wellness)
+- [Sports](#sports)
 - [Utility](#utility)
   - [Clipboard Management](#clipboard-management)
   - [Metadata](#metadata)
@@ -138,6 +140,7 @@
 - [BlueMail](https://bluemail.me) - Unified email client with smart push notifications and scheduling. 🤖 🍎
 - [Spark](https://sparkmailapp.com) - Collaboration-focused email app with advanced email triage tools. 🤖 🍎
 - [FairEmail](https://email.faircode.eu) - Lightweight open-source email client with strong privacy features. 🤖 🟢
+- [Mailfo](https://mailfo.pages.dev) - Disposable temporary email and instant verification OTP receiver. 🤖
 
 ## Compression and Archiving
 
@@ -245,6 +248,10 @@
 - [Notely Voice](https://github.com/tosinonikute/NotelyVoice) - 100% private notes and free AI voice-to-text transcription. [🟢](https://github.com/tosinonikute/NotelyVoice)
 - [DailyVox](https://getdailyvox.com) - Free AI voice diary with on-device transcription, mood tracking, and Digital Twin. No cloud, no accounts. 🍎 [🟢](https://github.com/intrepidkarthi/dailyvox)
 
+## Education
+
+- [LearnClash](https://learnclash.com) - Competitive learning app with 1v1 quiz duels on any topic, skill-based matchmaking and built-in spaced repetition. Free daily duels, no ads. 🤖 🍎
+
 ## Text Editors
 
 - [QuickEdit](https://play.google.com/store/apps/details?id=com.rhmsoft.edit) - Lightweight text editor for coding with syntax highlighting. 🤖
@@ -271,6 +278,7 @@
 - [Pixlr](https://pixlr.com) - Photo editor with advanced features like layers and effects. 🤖 🍎
 - [Snapseed](https://support.google.com/snapseed) - Powerful photo editing app with fine-tuning tools. 🤖 🍎
 - [Adobe Express](https://www.adobe.com/express) - Create graphics and collages with Adobe’s design tools. 🤖 🍎
+- [InkCraft](https://inkcraftapp.com) - Tattoo try-on that places designs on a photo of your own body, with a 3D body model and AI design generation. 🍎
 
 ## 3D Modeling and Animation
 
@@ -296,7 +304,7 @@
 ## Image Viewers
 
 - [Photo Map](https://play.google.com/store/apps/details?id=com.bischofs.photoviewer) - Displays images in a map view based on geotags. 🤖
-- [Simple Gallery](https://simplemobiletools.com/gallery) - Lightweight image viewer with sorting and editing options. 🤖 🟢
+- [Fossify Gallery](https://www.fossify.org/apps/gallery) - Privacy-focused photo and video gallery with editing, metadata removal, and protected folders. 🤖 [🟢](https://github.com/FossifyOrg/Gallery)
 - [A+ Gallery](https://play.google.com/store/apps/details?id=com.atomicadd.filedir) - Organize and view photos by date, location, and albums. 🤖
 - [Google Photos](https://photos.google.com) - Manage and sync photos with powerful search and cloud backup. 🤖 🍎
 
@@ -351,6 +359,10 @@
 - [LogZero](https://logzero.app) - Privacy-first habit and health tracker with mood, medication, food, exercise, and weight logs, plus on-device correlation insights. No account, no ads, no trackers. 🍎
 - [SproutGuard](https://apps.apple.com/us/app/sproutguard-screen-time-detox/id6768664921) - Screen time blocker for adults using Apple Screen Time, with scheduled blocks, loophole-resistant website blocking, and no account or cloud. 🍎
 - [ER Wait Times Quebec](https://apps.apple.com/ca/app/er-wait-times-quebec-hospital/id6801629280) - Occupancy, waiting-room headcount and average stay for all 120 Quebec emergency rooms, refreshed every 15 minutes, with the nearest-ER math done on the phone. 🍎
+- [SoulSync](https://play.google.com/store/apps/details?id=com.raeduslabs.soulsyncapp) - Private, offline mood tracker with a 10-point mood scale, activity correlation stats, and plain-language insights. No account, no ads, no analytics. 🤖 [🟢](https://github.com/Antimatter543/mood-tracker)
+- [Frankly](https://apps.apple.com/us/app/frankly-cards-for-connection/id6784455025) - Conversation card decks for couples, friends and family, swiped one at a time with a follow-up question behind each card. Works offline, no account, answers stay on device. 🍎
+- [Question Cards](https://questioncards.app) - Free conversation cards for couples, first dates, friends, and deep talks on iPhone and iPad. 🍎
+- [CareClinic](https://careclinic.io/) - Track symptoms, medications, mood, sleep, and daily health patterns in one journal. 🤖 🍎
 
 ## Sports
 
